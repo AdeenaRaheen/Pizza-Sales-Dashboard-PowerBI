@@ -41,6 +41,17 @@ Download the `.pbix` file and open it with Power BI Desktop to explore the inter
 
 The dashboard is built upon a simulated dataset representing typical pizza restaurant transactional data, including order details, pizza types, and pricing information. (You might want to add a link to the dataset if it's publicly available, or mention its source if you created it yourself).
 
+## 🖼️ Dashboard Screenshots
+
+**Screenshot 1: Overall Dashboard View**
+![Dashboard Screenshot 1](<img width="909" height="503" alt="Pizza Saled Dashboard" src="https://github.com/user-attachments/assets/d6b37314-9bab-4315-96b8-f8e218acbff4" />)
+
+**Screenshot 2: Focus on Classic Pizza Category by applying Filter**
+![Dashboard Screenshot 2](<img width="909" height="508" alt="Classic Pizza Saled Dashboard" src="https://github.com/user-attachments/assets/ef3e156e-21f7-4494-8a8c-57044176ab00" />)
+
+**Screenshot 3: Focus on Pizza Sales Revenue by Tooltip**
+![Dashboard Screenshot 3](<img width="909" height="508" alt="Tooltip Pizza Saled Dashboard" src="https://github.com/user-attachments/assets/aab3792e-3f15-4d08-9f5f-5d14873e076c" />)
+
 ---
 
 ## **Contact**
